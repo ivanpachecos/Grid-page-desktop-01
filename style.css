@@ -12,7 +12,7 @@ img{
 
 body {
     font-family: 'Mukta', sans-serif;
-    background-color: rgb(164, 196, 255);
+    background-color: rgb(209, 212, 216);
 }
 
 
@@ -64,7 +64,9 @@ li:hover {
 .end-3,
 .end-4,
 .end-5 {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.685);
+    border-radius: 5px;
+    cursor: pointer;
 }
 
 h1 {
